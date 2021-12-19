@@ -1,0 +1,5 @@
+msg_id "Online User"
+msgstr "在线用户"
+
+msg_id "speed"
+msg_str "速度"
